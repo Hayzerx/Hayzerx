@@ -15,6 +15,4 @@ Interesses paralelos em **cybersecurity**, automações e manipulação de **API
 
 ---
 
-### ∆
-
-Explorando o que está por trás do óbvio.
+### ∆ Explorando o que está por trás do óbvio.
